@@ -2,7 +2,7 @@
 <h1> Hi, I'm Allan Molina <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 </div>
 
-![Banner](https://github.com/cmGitHub192/cmGitHub192/assets/150628254/08e52f8a-966f-4401-8abc-2ec41d475e97)
+![Banner](https://drive.google.com/file/d/1Wq2HOz0PHAfDgg4iKKZGkhvvozFhQbHv/view?usp=drive_link)
 
 <div align=center>
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Interested+in%3A+Fullstack+Dev%2C;AI+and+Cybersecurity" alt="Headline" />
@@ -12,13 +12,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- ðŸ”­ I'm a student at "Escuela PolitÃ©cnica Nacional"
+- 🔭 I'm a student at "Escuela Politécnica Nacional"
   
-- ðŸŒ± Iâ€™m currently learning Information Retrieval 
+- 🌱 I’m currently learning Information Retrieval
   
-- ðŸ‘¯ Iâ€™m looking to collaborate on interesting projects
+- 👯 I’m looking to collaborate on interesting projects
   
-- ðŸ’¬ Ask me about Python, JavaScript, Java, C++, PHP, SQL
+- 💬 Ask me about JavaScript, HTML, CSS, Python, Java, C++, PHP, SQL
 
 <br>  
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -34,7 +34,7 @@
   <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">
 </a>
 
-### âš™ï¸ &nbsp;GitHub Analytics
+### ⚙️  GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Allan4865">
