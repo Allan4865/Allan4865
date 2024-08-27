@@ -2,7 +2,7 @@
 <h1> Hi, I'm Allan Molina <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 </div>
 
-![Banner](https://drive.google.com/file/d/1Wq2HOz0PHAfDgg4iKKZGkhvvozFhQbHv)
+![Banner](https://github.com/cmGitHub192/cmGitHub192/assets/150628254/08e52f8a-966f-4401-8abc-2ec41d475e97)
 
 <div align=center>
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Interested+in%3A+Fullstack+Dev%2C;AI+and+Cybersecurity" alt="Headline" />
