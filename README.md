@@ -14,7 +14,6 @@
 
 - 🔭 I'm a engineer at "Escuela Politécnica Nacional"
   
-- 🌱 I’m currently learning Cloud Computer
   
 - 👯 I’m looking to collaborate on interesting projects
   
